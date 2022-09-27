@@ -1,0 +1,2 @@
+The Class list is [('jacob', 'A'), ('stephen ', 'C'), ('issac ', 'B')] 
+ and the class average is 3
