@@ -1,0 +1,1 @@
+Good_day = open('Good_day.txt', 'r')
