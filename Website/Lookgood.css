@@ -1,0 +1,50 @@
+.html{
+    height: 100%;
+    background-color:#f1f1f1
+}
+.body{
+    height: 95%;
+    background-color:#ff580b;
+    border-style: solid;
+    border-width: 6px;
+    border-radius: 10px;
+    border-color: #33BEEF
+}
+.main{
+    height: 100%;
+}
+.avatar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+.Title {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    border-style: groove;
+    border-width: 6px;
+    width: 226px;
+    margin: auto;
+}
+.uname,.pwd{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container label{
+    display: block;
+    text-align: center;
+}
+.container button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container span{
+    display: block;
+    text-align: center;
+}
